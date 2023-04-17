@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutwik Kumbhar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fw23-0277" alt="fw23-0277" /></a> </p> -->
 
