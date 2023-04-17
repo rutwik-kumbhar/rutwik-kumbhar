@@ -9,17 +9,18 @@
 
 - 🌱 I’m currently learning **Java Back-end development**
 
-- 💬 Ask me about **Core Java , Spring Boot , Hibernate ,SQL**
+-  👯 I’m looking to work on **Full-stack web development.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://drive.google.com/file/d/1ey4BaXOOfDvxYB1cuNMXCllxA59iiSpN/view?usp=share_link)
 
-- 👯 I’m looking to work on **Full-stack web development.**
-
-- ⚡ Fun fact ["Normal people counting starts at 1, but programmers counting starts at 0."]("Normal people counting starts at 1, but programmers counting starts at 0.")
+- 💬 Ask me about **Core Java , Spring Boot , Hibernate ,SQL**
 
 - 📫 How to reach me **kumbharrutwik@gmail.com**
 
-- 📄 Know about my experiences **Resume**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ey4BaXOOfDvxYB1cuNMXCllxA59iiSpN/view?usp=share_link)
+
+- ⚡ Fun fact **Normal people counting starts at 1, but programmers counting starts at 0.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
