@@ -36,6 +36,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&" alt="fw23-0277" /></p>
 
-[![Yourname's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Yourname)](https://github.com/Yourname)
+[![https://github.com/fw23-0277](https://activity-graph.herokuapp.com/graph?username=Yourname)](https://github.com/fw23-0277)
+![Yourname's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Yourname&theme=github)
+
 
 
