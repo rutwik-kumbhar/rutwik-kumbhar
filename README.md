@@ -71,7 +71,8 @@
 
 
 
- 
+ ![alt text](https://raw.githubusercontent.com/<fw23-0277>/<fw23-0277>/<main>/<https://github.com/fw23-0277/fw23-0277/commit/8ca91b6d78ffcccbd45cd31249a763684093189c>/<graph_activity>.svg)
+
 
 
 
