@@ -73,7 +73,8 @@
 
  ![alt text](https://raw.githubusercontent.com/<fw23-0277>/<fw23-0277>/<main>/<https://github.com/fw23-0277/fw23-0277/blob/main/graph_activity.svg>/<graph_activity>.svg)
 
+![Image description](./https://github.com/fw23-0277/fw23-0277/blob/main/graph_activity.svg)
 
-
+https://github.com/fw23-0277/fw23-0277/blob/main/graph_activity.svg
 
 
