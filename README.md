@@ -49,7 +49,8 @@
 
 
 
-img.shields.io/badge/Java-v1.8-red.svg?style=for-the-badge&logo=spring&logoColor=white
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=fw23-0277)](https://github.com/fw23-0277)
+
 
 
 
