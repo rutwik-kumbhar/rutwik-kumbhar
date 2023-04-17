@@ -36,5 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&" alt="fw23-0277" /></p>
 
-[![Yourname's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Yourname's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Yourname)](https://github.com/Yourname)
+
 
