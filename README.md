@@ -36,6 +36,15 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white){:height="36px" width="36px"}
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black){:height="36px" width="36px"}
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white){:height="36px" width="36px"}
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white){:height="36px" width="36px"}
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white){:height="36px" width="36px"}
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white){:height="36px" width="36px"}
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black){:height="36px" width="36px"}
+
+
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact" alt="fw23-0277" /></p>
 
 
