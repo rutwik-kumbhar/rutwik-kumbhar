@@ -68,6 +68,33 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&" alt="fw23-0277" /></p>
 
 
+ 
+ name: Update README with contribution graph
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Use the username of the GitHub account you want to track contributions for
+          username: your-github-username
+          # Specify the theme and layout for the contribution graph
+          theme: dark
+          layout: default
+          # Specify the position and width of the contribution graph in your README file
+          config_timezone: Australia/Sydney
+          config_graph_offset: 5
+          config_graph_width: 800
+      - name: Update README
+        run: |
+          echo ${{ steps.metrics.outputs.content }} > README.md
+        # Commit and push the changes to your repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
