@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutwik Kumbhar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India.</h3>
 
-![A cute cat](https://i.imgur.com/abc123.jpg)
+![A cute cat](https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
