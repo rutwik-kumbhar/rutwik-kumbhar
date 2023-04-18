@@ -1,5 +1,5 @@
 
-<img src="https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg" alt="Alt text" width=100% height=60%/>
+<img src="https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg" alt="Alt text" width=100% height=30%/>
 <h1 align="center">Hi 👋, I'm Rutwik Kumbhar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India.</h3>
 
