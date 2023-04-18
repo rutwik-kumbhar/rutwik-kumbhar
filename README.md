@@ -29,17 +29,26 @@
 - ⚡ Fun fact **Normal people counting starts at 1, but programmers counting starts at 0.**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rutwik-kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rutwik-kumbhar" height="30" width="40" /></a>
-</p>
-
-
-
-
-
 ## Tech Stack
 <div align="center">
+<img src="https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML 5" height="30" width="120" />
+<img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3" height="30" width="100" />
+<img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" height="30" width="120" />
+<img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ED8B00" alt="Java" height="30" width="100" />
+<img src="https://img.shields.io/badge/Spring%20Boot-informational?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F" alt="Spring Boot" height="30" width="160" />
+<img src="https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=hibernate&logoColor=white&color=A42E2B" alt="Hibernate" height="30" width="120" />
+<img src="https://img.shields.io/badge/REST%20API-informational?style=for-the-badge&logo=rest&logoColor=white&color=6DB33F" alt="REST API" height="30" width="120" />
+<img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL" height="30" width="100" />
+<img src="https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37" alt="Postman" height="30" width="120" />
+<img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git" height="30" width="80" />
+<img src="https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28" alt="Firebase" height="30" width="120" />
+ </div>
+
+
+
+
+<!-- ## Tech Stack
+
 ![HTML 5](https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
@@ -51,7 +60,10 @@
 ![Postman](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
 ![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Firebase](https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28) 
-</div>
+ -->
+
+
+
 
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact" alt="fw23-0277" /></p>
@@ -66,10 +78,9 @@
 
 
 
- ![alt text](https://raw.githubusercontent.com/<fw23-0277>/<fw23-0277>/<main>/<https://github.com/fw23-0277/fw23-0277/blob/main/graph_activity.svg>/<graph_activity>.svg)
-
-![Image description](./https://github.com/fw23-0277/fw23-0277/blob/main/graph_activity.svg)
-
-https://github.com/fw23-0277/fw23-0277/blob/main/graph_activity.svg
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/rutwik-kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rutwik-kumbhar" height="30" width="40" /></a>
+</p>
 
 
