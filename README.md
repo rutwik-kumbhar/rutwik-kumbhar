@@ -44,9 +44,6 @@
 <img src="https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28" alt="Firebase" height="30" width="120" />
  </div>
 
-
-
-
 <!-- ## Tech Stack
 
 ![HTML 5](https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
@@ -62,7 +59,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28) 
  -->
 
-
+<!-- Dark Mode  -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact&theme=dark" alt="fw23-0277" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en&theme=dark" alt="fw23-0277" /></p>
@@ -70,16 +67,7 @@
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&theme=dark" alt="fw23-0277" /></p>
 
 
-<!-- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact&theme=dark" alt="fw23-0277" /></p>
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en&theme=dark
-" alt="fw23-0277" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&theme=dark
-" /></p> -->
-
-
-
+<!-- Light Mode  -->
 <!-- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact" alt="fw23-0277" /></p>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en" alt="fw23-0277" /></p>
