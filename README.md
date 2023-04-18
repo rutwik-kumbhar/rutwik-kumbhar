@@ -34,15 +34,12 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/rutwik-kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rutwik-kumbhar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 
 ## Tech Stack
-<div>
- 
-## Tech Stack
-
+<div align="center">
 ![HTML 5](https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
@@ -53,27 +50,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![Postman](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
 ![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Firebase](https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28)
-
-
- </div>
-
-
-
-
-
-
-
-
-
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=fw23-0277)](https://github.com/fw23-0277)
-
-
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=<fw23-0277>)](https://github.com/<fw23-0277>)
-
-
-[![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=<fw23-0277>&theme=dark)](https://github.com/<fw23-0277>)
-
+![Firebase](https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28) 
+</div>
 
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact" alt="fw23-0277" /></p>
