@@ -41,13 +41,23 @@
 ## Tech Stack
 <div>
  
+## Tech Stack
 
-<img src="https://img.shields.io/badge/Spring_Boot-2.6.2-green.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Python" style="height: 40px; width: px;">
-<im8g src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="height: 40px; width: 80px;">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="height: 40px; width: 100px;">
-<img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" style="height: 40px; width: 90px;">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 40px; width: 100px;">
+![HTML 5](https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-informational?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=hibernate&logoColor=white&color=A42E2B)
+![REST API](https://img.shields.io/badge/REST%20API-informational?style=for-the-badge&logo=rest&logoColor=white&color=6DB33F)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![Postman](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
+![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![Firebase](https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28)
+
+
  </div>
+
 
 
 
