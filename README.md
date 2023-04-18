@@ -28,6 +28,9 @@
 
 - ⚡ Fun fact **Normal people counting starts at 1, but programmers counting starts at 0.**
 
+![full_stack_developer](https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif)
+
+
 
 ## Tech Stack
 <div align="center">
