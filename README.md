@@ -14,6 +14,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
+<div> 
+ 
+ <span>
 - 🌱 I’m currently learning **Java Back-end development**
 
 -  👯 I’m looking to work on **Full-stack web development.**
@@ -28,9 +31,12 @@
 
 - ⚡ Fun fact **Normal people counting starts at 1, but programmers counting starts at 0.**
 
-![full_stack_developer](https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif)
+ </span>
+ 
+<span> <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" width="100" height="100"> </span>
 
-
+ 
+</div>
 
 ## Tech Stack
 <div align="center">
