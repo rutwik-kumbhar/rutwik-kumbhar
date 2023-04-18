@@ -1,11 +1,11 @@
 
-<img src="https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg" alt="Alt text" width=100% height=30%/>
+
 <h1 align="center">Hi 👋, I'm Rutwik Kumbhar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India.</h3>
 
 
 
-
+<img src="https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg" alt="Alt text"  height=30%/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
