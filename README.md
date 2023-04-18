@@ -33,7 +33,7 @@
 
  </span>
  
-<span> <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" width="100" height="100"> </span>
+<span> <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" width="30" height="30"> </span>
 
  
 </div>
