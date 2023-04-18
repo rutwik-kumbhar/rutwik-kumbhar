@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg" alt="Alt text" height="700"/>
+<img src="https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg" alt="Alt text" height="300"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
