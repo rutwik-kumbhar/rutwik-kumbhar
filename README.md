@@ -69,7 +69,6 @@
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact" alt="fw23-0277" /></p>
 
 
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en" alt="fw23-0277" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&" alt="fw23-0277" /></p>
@@ -83,4 +82,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/rutwik-kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rutwik-kumbhar" height="30" width="40" /></a>
 </p>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fw23-0277&bg_color=36262e&color=dcd1db&line=b37aaf&point=d12929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
