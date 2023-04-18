@@ -14,6 +14,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
+<img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right">
+
 
 - 🌱 I’m currently learning **Java Back-end development**
 
@@ -31,7 +33,13 @@
 
 
  
-<img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" width="30" height="30"> 
+<!-- <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" width="30" height="30">  -->
+
+
+
+
+
+
 
 
 ## Tech Stack
