@@ -93,7 +93,8 @@
 
 
 
-<h3 align="Center">ACONNECT WITH ME</h3>
+<h3 align="Center">CONNECT WITH ME</h3>
+## 
 <p align="left">
 <div align=center>
     <a href="https://www.linkedin.com/in/YOUR_PROFILE_URL/" target="_blank">
