@@ -6,7 +6,7 @@
 
 <p align=center><b>As a Java backend developer, I have experience in designing and developing scalable, secure, and reliable web applications. Proficient in Java, Spring, Hibernate, and SQL, I am skilled in developing and maintaining server-side logic and RESTful APIs. I am dedicated to delivering high-quality code and collaborating effectively with cross-functional teams to meet project goals.</b></p>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> 
 
 <p align="center"> <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right"> </p>
 
