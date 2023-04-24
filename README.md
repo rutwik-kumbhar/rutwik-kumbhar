@@ -94,7 +94,7 @@
 ## <h3 align="Center">CONNECT WITH ME</h3>
 <p align="left">
 <div align=center>
-    <a href="www.linkedin.com/in/rutwik-kumbhar" target="_blank">
+    <a href="https://www.linkedin.com/in/rutwik-kumbhar/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30">
     </a>
     <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
