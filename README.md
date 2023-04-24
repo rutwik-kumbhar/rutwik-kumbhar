@@ -6,9 +6,9 @@
 
 <p align=center><b>As a Java backend developer, I have experience in designing and developing scalable, secure, and reliable web applications. Proficient in Java, Spring, Hibernate, and SQL, I am skilled in developing and maintaining server-side logic and RESTful APIs. I am dedicated to delivering high-quality code and collaborating effectively with cross-functional teams to meet project goals.</b></p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
 
-<img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right">
+<p align="center"> <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right"> </p>
 
 
 
@@ -75,7 +75,9 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en&theme=dark" alt="fw23-0277" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&theme=dark" alt="fw23-0277" />
+</p>
+<p>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&theme=dark" alt="fw23-0277" />
 </p>
 
 [![Rutwik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fw23-0277&bg_color=110e0f&color=1ee3e6&line=28e63f&point=e13214&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
