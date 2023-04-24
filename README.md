@@ -8,10 +8,6 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fw23-0277" alt="fw23-0277" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
 <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right">
 
 
@@ -84,6 +80,11 @@
 
 [![Rutwik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fw23-0277&bg_color=110e0f&color=1ee3e6&line=28e63f&point=e13214&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fw23-0277&theme=darkhub&margin-w=15" alt="GitHub Trophy" />
+  </a>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
