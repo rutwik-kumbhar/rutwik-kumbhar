@@ -100,8 +100,5 @@
     <a href="https://twitter.com/RutwikKumbhar" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="30" width="30">
     </a>
-    <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="30">
-    </a>
 </div>
 
