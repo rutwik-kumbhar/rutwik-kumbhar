@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Java Back-end development**
 
--  👯 I’m looking to work on **Full-stack web development.**
+- 👯 I’m looking to work on **Full-stack web development.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://drive.google.com/file/d/1ey4BaXOOfDvxYB1cuNMXCllxA59iiSpN/view?usp=share_link)
 
@@ -56,6 +56,8 @@
 <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git" height="30" width="80" />
 <img src="https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28" alt="Firebase" height="30" width="120" />
  </div>
+ 
+
 
 <!-- ## Tech Stack
 
@@ -73,14 +75,18 @@
  -->
 
 <!-- Dark Mode  -->
+
+## My GitHub Stats
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact&theme=dark" alt="fw23-0277" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en&theme=dark" alt="fw23-0277" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&theme=dark" alt="fw23-0277" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en&theme=dark" alt="fw23-0277" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&theme=dark" alt="fw23-0277" />
+</p>
 
 
 <!-- Light Mode  -->
+
 <!-- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact" alt="fw23-0277" /></p>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en" alt="fw23-0277" /></p>
@@ -91,10 +97,12 @@
 
 
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fw23-0277&bg_color=110e0f&color=1ee3e6&line=28e63f&point=e13214&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rutwik-kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rutwik-kumbhar" height="30" width="40" /></a>
 </p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fw23-0277&bg_color=110e0f&color=1ee3e6&line=28e63f&point=e13214&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
