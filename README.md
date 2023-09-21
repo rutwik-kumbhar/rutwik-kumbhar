@@ -89,7 +89,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fw23-0277&theme=darkhub&margin-w=15" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rutwik-kumbhar&theme=darkhub&margin-w=15" alt="GitHub Trophy" />
   </a>
 </div>
 
