@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to work on **Full-stack web development.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://fw23-0277.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rutwik-kumbhar.github.io/)
 
 - 💬 Ask me about **Core Java , Spring Boot , Hibernate ,SQL**
 
