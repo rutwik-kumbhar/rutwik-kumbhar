@@ -8,7 +8,7 @@
  
  <img src="https://komarev.com/ghpvc/?username=rutwik-kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="rutwik-kumbhar" /> 
 
-<p align="center"> <img src="https://github.com/rutwik-kumbhar/rutwik-kumbhar/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right"> </p>
+//<p align="center"> <img src="https://github.com/rutwik-kumbhar/rutwik-kumbhar/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right"> </p>
 
 
 
