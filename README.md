@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Rutwik Kumbhar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India.</h3>
 
-<img src="https://github.com/fw23-0277/fw23-0277/blob/main/bg-github.jpg" alt="Alt text" width=100% height=200/>
+<img src="https://github.com/rutwik-kumbhar/rutwik-kumbhar/blob/main/bg-github.jpg" alt="Alt text" width=100% height=200/>
 
 <p align=center><b>As a Java backend developer, I have experience in designing and developing scalable, secure, and reliable web applications. Proficient in Java, Spring, Hibernate, and SQL, I am skilled in developing and maintaining server-side logic and RESTful APIs. I am dedicated to delivering high-quality code and collaborating effectively with cross-functional teams to meet project goals.</b></p>
  
- <img src="https://komarev.com/ghpvc/?username=fw23-0277&label=Profile%20views&color=0e75b6&style=flat" alt="fw23-0277" /> 
+ <img src="https://komarev.com/ghpvc/?username=rutwik-kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="rutwik-kumbhar" /> 
 
-<p align="center"> <img src="https://github.com/fw23-0277/fw23-0277/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right"> </p>
+<p align="center"> <img src="https://github.com/rutwik-kumbhar/rutwik-kumbhar/blob/main/full-stack-development.gif" alt="Image description" width="400" align="right"> </p>
 
 
 
