@@ -74,17 +74,17 @@
 <!-- Dark Mode  -->
 
 ## My GitHub Stats
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fw23-0277&show_icons=true&locale=en&layout=compact&theme=dark" alt="fw23-0277" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutwik-kumbhar&show_icons=true&locale=en&layout=compact&theme=dark" alt="rutwik-kumbhar" /></p>
 
 <p align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fw23-0277&show_icons=true&locale=en&theme=dark" alt="fw23-0277" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutwik-kumbhar&show_icons=true&locale=en&theme=dark" alt="rutwik-kumbhar" />
 </p>
 
 <p align=center>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&theme=dark" alt="fw23-0277" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutwik-kumbhar&theme=dark" alt="rutwik-kumbhar" />
 </p>
 
-[![Rutwik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fw23-0277&bg_color=110e0f&color=1ee3e6&line=28e63f&point=e13214&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rutwik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rutwik-kumbhar&bg_color=110e0f&color=1ee3e6&line=28e63f&point=e13214&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
