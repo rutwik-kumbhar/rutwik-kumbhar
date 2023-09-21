@@ -41,6 +41,9 @@
 <img src="https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML 5" height="30" width="120" />
 <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3" height="30" width="100" />
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" height="30" width="120" />
+ <img src="https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=DD0031" alt="Angular" height="30" width="100" />
+<img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC" alt="TypeScript" height="30" width="120" />
+
 <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ED8B00" alt="Java" height="30" width="100" />
 <img src="https://img.shields.io/badge/Spring%20Boot-informational?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F" alt="Spring Boot" height="30" width="160" />
 <img src="https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=hibernate&logoColor=white&color=A42E2B" alt="Hibernate" height="30" width="120" />
