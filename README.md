@@ -38,15 +38,19 @@
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" height="30" width="120" />
  <img src="https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=DD0031" alt="Angular" height="30" width="100" />
 <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC" alt="TypeScript" height="30" width="120" />
-
 <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ED8B00" alt="Java" height="30" width="100" />
-<img src="https://img.shields.io/badge/Spring%20Boot-informational?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F" alt="Spring Boot" height="30" width="160" />
-<img src="https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=hibernate&logoColor=white&color=A42E2B" alt="Hibernate" height="30" width="120" />
-<img src="https://img.shields.io/badge/REST%20API-informational?style=for-the-badge&logo=rest&logoColor=white&color=6DB33F" alt="REST API" height="30" width="120" />
+ <img src="https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=hibernate&logoColor=white&color=A42E2B" alt="Hibernate" height="30" width="120" />
+ <img src="https://img.shields.io/badge/Spring%20Boot-informational?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F" alt="Spring Boot" height="30" width="160" />
+ <img src="https://img.shields.io/badge/REST%20API-informational?style=for-the-badge&logo=rest&logoColor=white&color=6DB33F" alt="REST API" height="30" width="120" />
+ <img src="https://img.shields.io/badge/Microservices-informational?style=for-the-badge&logo=microservices&logoColor=white&color=2ECC71" alt="Microservices" height="30" width="150" />
+<img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=green" alt="SQL" height="30" width="100" />
 <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL" height="30" width="100" />
 <img src="https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37" alt="Postman" height="30" width="120" />
 <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git" height="30" width="80" />
 <img src="https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA28" alt="Firebase" height="30" width="120" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-informational?style=for-the-badge&logo=prompt&logoColor=white&color=blue" alt="Prompt Engineering" height="30" width="160" />
+<img src="https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=orange" alt="AWS" height="30" width="120" />
+
  </div>
  
 
